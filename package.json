@@ -1,0 +1,20 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddjr/apollo-server.git"
+  },
+  "author": "David Daly 2024 NYC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddjr/apollo-server/issues"
+  },
+  "homepage": "https://github.com/ddjr/apollo-server#readme",
+  "description": "",
+  "type": "module"
+}
